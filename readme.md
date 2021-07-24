@@ -1,0 +1,1 @@
+basic calculator in reaact. build using components. only button.js and App.js are authentic code others are just practice of hooks and components
